@@ -1,4 +1,4 @@
-# The Borealis Manifesto
+# The Borealis Modern Free Open-Source Software (MFOSS) Project Manifesto
 
 *Version 1.0 — Ritvik Gautam, 2026*
 
