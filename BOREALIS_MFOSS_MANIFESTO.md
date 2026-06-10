@@ -86,5 +86,7 @@ That is what we are trying to build. Software that illuminates. Software that be
 ---
 
 *Borealis MFOSS Project*
+
 *github.com/gautamritvik*
+
 *Licensed under Apache 2.0*
